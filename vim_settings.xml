@@ -15,12 +15,12 @@
         <mark key="." line="1" column="26" />
         <mark key="^" line="1" column="26" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/i3-mole/scripts/emr_scheduler.py" timestamp="1532665234645">
-        <mark key="'" line="99" column="0" />
-        <mark key="[" line="50" column="10" />
-        <mark key="]" line="50" column="20" />
-        <mark key="." line="50" column="20" />
-        <mark key="^" line="50" column="20" />
+      <file name="$USER_HOME$/OfficeTools/git/i3-mole/scripts/emr_scheduler.py" timestamp="1532666460579">
+        <mark key="'" line="72" column="34" />
+        <mark key="[" line="47" column="54" />
+        <mark key="]" line="47" column="54" />
+        <mark key="." line="47" column="54" />
+        <mark key="^" line="47" column="54" />
       </file>
     </filemarks>
     <jumps>
@@ -36,31 +36,41 @@
       <jump line="3" column="26" filename="$USER_HOME$/OfficeTools/git/i3-mole/scripts/emr_scheduler.py" />
       <jump line="18" column="10" filename="$USER_HOME$/OfficeTools/git/i3-mole/scripts/emr_scheduler.py" />
       <jump line="98" column="0" filename="$USER_HOME$/OfficeTools/git/i3-mole/scripts/emr_scheduler.py" />
+      <jump line="69" column="34" filename="$USER_HOME$/OfficeTools/git/i3-mole/scripts/emr_scheduler.py" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGJvdG8zCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGJvdG8zCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGkK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGJvdG8zCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">Cmlm</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aWYK</text>
+        <text encoding="base64">aW1wb3J0IGpzb24K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IHN5cwppbXBvcnQgdGltZQppbXBvcnQganNvbgo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IGJvdG8zCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ICUgZQ==</text>
       </register>
       <register name="/" type="4">
         <text>session</text>
