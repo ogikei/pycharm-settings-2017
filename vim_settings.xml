@@ -15,12 +15,12 @@
         <mark key="." line="1" column="26" />
         <mark key="^" line="1" column="26" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/i3-mole/scripts/emr_scheduler.py" timestamp="1532669387885">
+      <file name="$USER_HOME$/OfficeTools/git/i3-mole/scripts/emr_scheduler.py" timestamp="1532669802569">
         <mark key="'" line="72" column="34" />
-        <mark key="[" line="20" column="4" />
-        <mark key="]" line="20" column="1" />
-        <mark key="." line="20" column="1" />
-        <mark key="^" line="20" column="1" />
+        <mark key="[" line="100" column="8" />
+        <mark key="]" line="101" column="5" />
+        <mark key="." line="101" column="5" />
+        <mark key="^" line="101" column="5" />
       </file>
     </filemarks>
     <jumps>
@@ -43,7 +43,7 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>H</text>
+        <text>h</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -70,7 +70,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>H</text>
+        <text>h</text>
       </register>
       <register name="/" type="4">
         <text>session</text>
@@ -95,6 +95,9 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
