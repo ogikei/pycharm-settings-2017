@@ -15,12 +15,11 @@
         <mark key="." line="1" column="26" />
         <mark key="^" line="1" column="26" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/i3-mole/scripts/emr_scheduler.py" timestamp="1532677485338">
-        <mark key="'" line="19" column="6" />
-        <mark key="[" line="115" column="0" />
-        <mark key="]" line="115" column="0" />
-        <mark key="." line="115" column="0" />
-        <mark key="^" line="115" column="3" />
+      <file name="$USER_HOME$/OfficeTools/git/i3-mole/scripts/emr_scheduler.py" timestamp="1532687888840">
+        <mark key="'" line="52" column="37" />
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="107" column="0" />
+        <mark key="." line="107" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/i3-mole/config/emr/conf.json" timestamp="1532680203608">
         <mark key="'" line="0" column="0" />
@@ -39,7 +38,6 @@
       <jump line="4" column="5" filename="$USER_HOME$/OfficeTools/git/i3-mole/scripts/emr_scheduler.py" />
       <jump line="14" column="0" filename="$USER_HOME$/OfficeTools/git/i3-mole/scripts/emr_scheduler.py" />
       <jump line="16" column="15" filename="$USER_HOME$/OfficeTools/git/i3-mole/scripts/emr_scheduler.py" />
-      <jump line="92" column="0" filename="$USER_HOME$/OfficeTools/git/i3-mole/scripts/emr_scheduler.py" />
       <jump line="15" column="0" filename="$USER_HOME$/OfficeTools/git/i3-mole/scripts/emr_scheduler.py" />
       <jump line="2" column="0" filename="$USER_HOME$/OfficeTools/git/i3-mole/scripts/emr_scheduler.py" />
       <jump line="99" column="17" filename="$USER_HOME$/OfficeTools/git/i3-mole/scripts/emr_scheduler.py" />
@@ -57,49 +55,60 @@
       <jump line="19" column="6" filename="$USER_HOME$/OfficeTools/git/i3-mole/scripts/emr_scheduler.py" />
       <jump line="27" column="20" filename="$USER_HOME$/OfficeTools/git/i3-mole/config/emr/emr.json" />
       <jump line="0" column="0" filename="$USER_HOME$/OfficeTools/git/i3-mole/config/emr/conf.json" />
+      <jump line="56" column="19" filename="$USER_HOME$/OfficeTools/git/i3-mole/scripts/emr_scheduler.py" />
+      <jump line="24" column="0" filename="$USER_HOME$/OfficeTools/git/i3-mole/scripts/emr_scheduler.py" />
+      <jump line="30" column="41" filename="$USER_HOME$/OfficeTools/git/i3-mole/scripts/emr_scheduler.py" />
+      <jump line="33" column="30" filename="$USER_HOME$/OfficeTools/git/i3-mole/scripts/emr_scheduler.py" />
+      <jump line="39" column="23" filename="$USER_HOME$/OfficeTools/git/i3-mole/scripts/emr_scheduler.py" />
+      <jump line="42" column="29" filename="$USER_HOME$/OfficeTools/git/i3-mole/scripts/emr_scheduler.py" />
+      <jump line="92" column="20" filename="$USER_HOME$/OfficeTools/git/i3-mole/scripts/emr_scheduler.py" />
+      <jump line="82" column="23" filename="$USER_HOME$/OfficeTools/git/i3-mole/scripts/emr_scheduler.py" />
+      <jump line="25" column="19" filename="$USER_HOME$/OfficeTools/git/i3-mole/scripts/emr_scheduler.py" />
+      <jump line="36" column="26" filename="$USER_HOME$/OfficeTools/git/i3-mole/scripts/emr_scheduler.py" />
+      <jump line="52" column="37" filename="$USER_HOME$/OfficeTools/git/i3-mole/scripts/emr_scheduler.py" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CmlmIF9fbmFtZV9fID09ICdfX21haW5fXyc6CiAgICBtYWluKCkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGJvdG8zCg==</text>
+        <text encoding="base64">ICAgICAgICBzdGVwcyA9IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBramNsaWVudC5saXN0X3N0ZXBzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CmlmIF9fbmFtZV9fID09ICdfX21haW5fXyc6CiAgICBtYWluKCkK</text>
+        <text encoding="base64">ICAgICAgICBhID0gY2xpZW50LmxpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhcnRfZW1yX3NjaGVkdWxlcigpCg==</text>
+        <text encoding="base64">ICAgICAgICBjbGllbnQubGlzdF9jbHVzdGVycwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhcnRfZW1yX3NjaGVkdWxlcigpCg==</text>
+        <text encoding="base64">ICAgICAgICBjbHVzdGVycy4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX3N0YXJ0X2Vtcl9zY2hlZHVsZXIoKQo=</text>
+        <text encoding="base64">ICAgICAgICBjbGllbnQuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBjbHVzCg==</text>
       </register>
       <register name="-" type="4">
         <text>amiwn</text>
       </register>
       <register name="/" type="4">
-        <text>start</text>
+        <text>2</text>
       </register>
     </registers>
     <search>
-      <last-search>start</last-search>
+      <last-search>2</last-search>
       <last-offset />
-      <last-pattern>start</last-pattern>
+      <last-pattern>2</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -108,6 +117,9 @@
         <entry>boto</entry>
         <entry>session</entry>
         <entry>start</entry>
+        <entry>step</entry>
+        <entry>cluster</entry>
+        <entry>2</entry>
       </history-search>
       <history-cmd />
       <history-expr />
