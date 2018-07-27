@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" timestamp="1532664129582">
+        <mark key="'" line="551" column="5" />
+      </file>
       <file name="$USER_HOME$/MyWork/git/fundamental-statistics/lesson.py" timestamp="1532066224031">
         <mark key="[" line="1" column="26" />
         <mark key="]" line="1" column="26" />
@@ -10,7 +13,9 @@
         <mark key="^" line="1" column="26" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="551" column="5" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
+    </jumps>
     <registers>
       <register name="1" type="4">
         <text encoding="base64">Cmlm</text>
