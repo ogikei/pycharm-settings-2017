@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/start_script.py" timestamp="1532664312042">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" timestamp="1532664129582">
         <mark key="'" line="551" column="5" />
       </file>
@@ -12,30 +15,69 @@
         <mark key="." line="1" column="26" />
         <mark key="^" line="1" column="26" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/i3-mole/scripts/emr_scheduler.py" timestamp="1532665234645">
+        <mark key="'" line="99" column="0" />
+        <mark key="[" line="50" column="10" />
+        <mark key="]" line="50" column="20" />
+        <mark key="." line="50" column="20" />
+        <mark key="^" line="50" column="20" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="551" column="5" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
+      <jump line="4" column="5" filename="$USER_HOME$/OfficeTools/git/i3-mole/scripts/emr_scheduler.py" />
+      <jump line="14" column="0" filename="$USER_HOME$/OfficeTools/git/i3-mole/scripts/emr_scheduler.py" />
+      <jump line="16" column="15" filename="$USER_HOME$/OfficeTools/git/i3-mole/scripts/emr_scheduler.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/OfficeTools/git/i3-mole/scripts/emr_scheduler.py" />
+      <jump line="92" column="0" filename="$USER_HOME$/OfficeTools/git/i3-mole/scripts/emr_scheduler.py" />
+      <jump line="15" column="0" filename="$USER_HOME$/OfficeTools/git/i3-mole/scripts/emr_scheduler.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/OfficeTools/git/i3-mole/scripts/emr_scheduler.py" />
+      <jump line="99" column="17" filename="$USER_HOME$/OfficeTools/git/i3-mole/scripts/emr_scheduler.py" />
+      <jump line="3" column="26" filename="$USER_HOME$/OfficeTools/git/i3-mole/scripts/emr_scheduler.py" />
+      <jump line="18" column="10" filename="$USER_HOME$/OfficeTools/git/i3-mole/scripts/emr_scheduler.py" />
+      <jump line="98" column="0" filename="$USER_HOME$/OfficeTools/git/i3-mole/scripts/emr_scheduler.py" />
     </jumps>
     <registers>
-      <register name="1" type="4">
-        <text encoding="base64">Cmlm</text>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IGJvdG8zCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGJvdG8zCg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBpZgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGkK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IGJvdG8zCg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">Cmlm</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">aWYK</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="/" type="4">
+        <text>session</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
-      <show-last>false</show-last>
+      <last-search>session</last-search>
+      <last-offset />
+      <last-pattern>session</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>boto</entry>
+        <entry>session</entry>
+      </history-search>
       <history-cmd />
       <history-expr />
       <history-input />
