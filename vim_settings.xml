@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/start_script.py" timestamp="1532664312042">
+      <file name="/start_script.py" timestamp="1532669229371">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" timestamp="1532664129582">
@@ -15,12 +15,12 @@
         <mark key="." line="1" column="26" />
         <mark key="^" line="1" column="26" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/i3-mole/scripts/emr_scheduler.py" timestamp="1532666460579">
+      <file name="$USER_HOME$/OfficeTools/git/i3-mole/scripts/emr_scheduler.py" timestamp="1532669320932">
         <mark key="'" line="72" column="34" />
-        <mark key="[" line="47" column="54" />
-        <mark key="]" line="47" column="54" />
-        <mark key="." line="47" column="54" />
-        <mark key="^" line="47" column="54" />
+        <mark key="[" line="20" column="4" />
+        <mark key="]" line="20" column="1" />
+        <mark key="." line="20" column="1" />
+        <mark key="^" line="20" column="1" />
       </file>
     </filemarks>
     <jumps>
@@ -40,10 +40,10 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>H</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -52,25 +52,25 @@
         <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ZGVmIHRlc3QoKToK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGpzb24K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwppbXBvcnQgdGltZQppbXBvcnQganNvbgo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGJvdG8zCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICUgZQ==</text>
+        <text>H</text>
       </register>
       <register name="/" type="4">
         <text>session</text>
