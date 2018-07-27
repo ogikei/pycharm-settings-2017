@@ -15,11 +15,12 @@
         <mark key="." line="1" column="26" />
         <mark key="^" line="1" column="26" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/i3-mole/scripts/emr_scheduler.py" timestamp="1532672969940">
-        <mark key="'" line="49" column="4" />
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="0" />
-        <mark key="." line="91" column="0" />
+      <file name="$USER_HOME$/OfficeTools/git/i3-mole/scripts/emr_scheduler.py" timestamp="1532677485338">
+        <mark key="'" line="19" column="6" />
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="0" />
+        <mark key="." line="115" column="0" />
+        <mark key="^" line="115" column="3" />
       </file>
       <file name="$USER_HOME$/OfficeTools/git/i3-mole/config/emr/conf.json" timestamp="1532670421664">
         <mark key="'" line="0" column="0" />
@@ -37,7 +38,6 @@
       <jump line="4" column="5" filename="$USER_HOME$/OfficeTools/git/i3-mole/scripts/emr_scheduler.py" />
       <jump line="14" column="0" filename="$USER_HOME$/OfficeTools/git/i3-mole/scripts/emr_scheduler.py" />
       <jump line="16" column="15" filename="$USER_HOME$/OfficeTools/git/i3-mole/scripts/emr_scheduler.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/OfficeTools/git/i3-mole/scripts/emr_scheduler.py" />
       <jump line="92" column="0" filename="$USER_HOME$/OfficeTools/git/i3-mole/scripts/emr_scheduler.py" />
       <jump line="15" column="0" filename="$USER_HOME$/OfficeTools/git/i3-mole/scripts/emr_scheduler.py" />
       <jump line="2" column="0" filename="$USER_HOME$/OfficeTools/git/i3-mole/scripts/emr_scheduler.py" />
@@ -49,40 +49,46 @@
       <jump line="91" column="13" filename="$USER_HOME$/OfficeTools/git/i3-mole/scripts/emr_scheduler.py" />
       <jump line="0" column="0" filename="$USER_HOME$/OfficeTools/git/i3-mole/config/emr/conf.json" />
       <jump line="49" column="4" filename="$USER_HOME$/OfficeTools/git/i3-mole/scripts/emr_scheduler.py" />
+      <jump line="117" column="9" filename="$USER_HOME$/OfficeTools/git/i3-mole/scripts/emr_scheduler.py" />
+      <jump line="116" column="0" filename="$USER_HOME$/OfficeTools/git/i3-mole/scripts/emr_scheduler.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/OfficeTools/git/i3-mole/scripts/emr_scheduler.py" />
+      <jump line="115" column="0" filename="$USER_HOME$/OfficeTools/git/i3-mole/scripts/emr_scheduler.py" />
+      <jump line="94" column="0" filename="$USER_HOME$/OfficeTools/git/i3-mole/scripts/emr_scheduler.py" />
+      <jump line="19" column="6" filename="$USER_HOME$/OfficeTools/git/i3-mole/scripts/emr_scheduler.py" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhcnRfZW1yX3NjaGVkdWxlcigpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhcnRfZW1yX3NjaGVkdWxlcigpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhcnRfZW1yX3NjaGVkdWxlcigpCg==</text>
+        <text encoding="base64">CmlmIF9fbmFtZV9fID09ICdfX21haW5fXyc6CiAgICBtYWluKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX3N0YXJ0X2Vtcl9zY2hlZHVsZXIoKQo=</text>
+        <text encoding="base64">aW1wb3J0IGJvdG8zCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CmlmIF9fbmFtZV9fID09ICdfX21haW5fXyc6CiAgICBtYWluKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RhcnRfZW1yX3NjaGVkdWxlcigpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGVmIHRlc3QoKToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RhcnRfZW1yX3NjaGVkdWxlcigpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgX3N0YXJ0X2Vtcl9zY2hlZHVsZXIoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>amiwn</text>
       </register>
       <register name="/" type="4">
         <text>start</text>
