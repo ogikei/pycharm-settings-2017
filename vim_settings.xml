@@ -15,13 +15,21 @@
         <mark key="." line="1" column="26" />
         <mark key="^" line="1" column="26" />
       </file>
-      <file name="$USER_HOME$/OfficeTools/git/i3-mole/scripts/emr_scheduler.py" timestamp="1532669802569">
-        <mark key="'" line="72" column="34" />
-        <mark key="[" line="100" column="8" />
-        <mark key="]" line="101" column="5" />
-        <mark key="." line="101" column="5" />
-        <mark key="^" line="101" column="5" />
+      <file name="$USER_HOME$/OfficeTools/git/i3-mole/scripts/emr_scheduler.py" timestamp="1532671840658">
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="91" column="0" />
+        <mark key="." line="91" column="0" />
       </file>
+      <file name="$USER_HOME$/OfficeTools/git/i3-mole/config/emr/conf.json" timestamp="1532670421664">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/OfficeTools/git/i3-mole/config/emr/emr.json" timestamp="1532670440810">
+        <mark key="[" line="20" column="34" />
+        <mark key="]" line="20" column="35" />
+        <mark key="." line="20" column="35" />
+        <mark key="^" line="19" column="30" />
+      </file>
+      <file name="$USER_HOME$/OfficeTools/git/i3-mole/config/emr/step.json" timestamp="1532671631163" />
     </filemarks>
     <jumps>
       <jump line="551" column="5" filename="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" />
@@ -35,51 +43,53 @@
       <jump line="99" column="17" filename="$USER_HOME$/OfficeTools/git/i3-mole/scripts/emr_scheduler.py" />
       <jump line="3" column="26" filename="$USER_HOME$/OfficeTools/git/i3-mole/scripts/emr_scheduler.py" />
       <jump line="18" column="10" filename="$USER_HOME$/OfficeTools/git/i3-mole/scripts/emr_scheduler.py" />
-      <jump line="98" column="0" filename="$USER_HOME$/OfficeTools/git/i3-mole/scripts/emr_scheduler.py" />
       <jump line="69" column="34" filename="$USER_HOME$/OfficeTools/git/i3-mole/scripts/emr_scheduler.py" />
+      <jump line="98" column="4" filename="$USER_HOME$/OfficeTools/git/i3-mole/scripts/emr_scheduler.py" />
+      <jump line="91" column="13" filename="$USER_HOME$/OfficeTools/git/i3-mole/scripts/emr_scheduler.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/OfficeTools/git/i3-mole/config/emr/conf.json" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RhcnRfZW1yX3NjaGVkdWxlcigpCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>h</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc3RhcnRfZW1yX3NjaGVkdWxlcigpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RhcnRfZW1yX3NjaGVkdWxlcigpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgX3N0YXJ0X2Vtcl9zY2hlZHVsZXIoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVmIHRlc3QoKToK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ZGVmIHRlc3QoKToK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>h</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>session</text>
+        <text>start</text>
       </register>
     </registers>
     <search>
-      <last-search>session</last-search>
+      <last-search>start</last-search>
       <last-offset />
-      <last-pattern>session</last-pattern>
+      <last-pattern>start</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -87,6 +97,7 @@
       <history-search>
         <entry>boto</entry>
         <entry>session</entry>
+        <entry>start</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -98,6 +109,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
