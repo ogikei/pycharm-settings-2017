@@ -6,7 +6,6 @@
       <file name="/start_script.py" timestamp="1532669229371">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/python_programming_demo_app-0.0.1/README.txt" timestamp="1535374676704" />
       <file name="$USER_HOME$/OfficeTools/git/i3-mole/config/emr/conf.json" timestamp="1532680203608">
         <mark key="'" line="0" column="0" />
       </file>
@@ -29,7 +28,6 @@
         <mark key="." line="20" column="35" />
         <mark key="^" line="19" column="30" />
       </file>
-      <file name="$USER_HOME$/MyWork/git/python_programming_demo_app-0.0.1/roboter/views/console.py" timestamp="1535371797946" />
       <file name="$USER_HOME$/OfficeTools/git/i3-mole/scripts/emr_scheduler.py" timestamp="1532687888840">
         <mark key="'" line="52" column="37" />
         <mark key="[" line="107" column="0" />
@@ -44,6 +42,20 @@
       </file>
       <file name="$USER_HOME$/OfficeTools/git/i3-mole/queries/hive/30_activity_ext_to_activity.q" timestamp="1532664129582">
         <mark key="'" line="551" column="5" />
+      </file>
+      <file name="$USER_HOME$/MyWork/git/python_programming_demo_app-0.0.1/main.py" timestamp="1535377412027" />
+      <file name="$USER_HOME$/MyWork/git/python_programming_demo_app-0.0.1/.gitignore" timestamp="1535378631797">
+        <mark key="[" line="3" column="14" />
+        <mark key="]" line="4" column="5" />
+        <mark key="." line="4" column="5" />
+        <mark key="^" line="4" column="5" />
+      </file>
+      <file name="$USER_HOME$/MyWork/git/python_programming_demo_app-0.0.1/setup.py" timestamp="1535378485051">
+        <mark key="'" line="20" column="17" />
+        <mark key="[" line="22" column="18" />
+        <mark key="]" line="22" column="24" />
+        <mark key="." line="22" column="24" />
+        <mark key="^" line="22" column="24" />
       </file>
     </filemarks>
     <jumps>
@@ -80,40 +92,42 @@
       <jump line="36" column="26" filename="$USER_HOME$/OfficeTools/git/i3-mole/scripts/emr_scheduler.py" />
       <jump line="52" column="37" filename="$USER_HOME$/OfficeTools/git/i3-mole/scripts/emr_scheduler.py" />
       <jump line="6" column="8" filename="$USER_HOME$/MyWork/git/python_programming_demo_app-0.0.1/roboter/models/ranking.py" />
+      <jump line="25" column="0" filename="$USER_HOME$/MyWork/git/python_programming_demo_app-0.0.1/setup.py" />
+      <jump line="20" column="17" filename="$USER_HOME$/MyWork/git/python_programming_demo_app-0.0.1/setup.py" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIFtjb25zb2xlX3NjcmlwdHNdCiAgICByb2JvdF9weXRob24gPSBtYWluCiAgICAiIiIsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzdGVwcyA9IAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBramNsaWVudC5saXN0X3N0ZXBzCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGU9awo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhID0gY2xpZW50LmxpCg==</text>
+        <text encoding="base64">KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjbGllbnQubGlzdF9jbHVzdGVycwo=</text>
+        <text encoding="base64">LmlkZWEvCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjbHVzdGVycy4K</text>
+        <text encoding="base64">IyBpZ25vcmUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjbGllbnQuCg==</text>
+        <text encoding="base64">IyBDcmVhdGVkIGJ5IC5pZ25vcmUgc3VwcG9ydCBwbHVnaW4gKGhzei5tb2JpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjbHVzCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>robot_python=roboter.controller.conversation:talk_about_restaurant</text>
       </register>
       <register name="/" type="4">
         <text>2</text>
@@ -148,6 +162,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
